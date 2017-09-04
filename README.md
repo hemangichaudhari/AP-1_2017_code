@@ -1,1 +1,1 @@
-# AP-1_2017_code
+# Raw data processesing and analysis scripts for Chaudhari and Cohen, 2017
