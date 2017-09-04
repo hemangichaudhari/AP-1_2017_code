@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# To run the file : In terminal :  bash Fastq_2_Barcode_counts.sh NameOf.fastq Prefix Barcode_length
 # First argument is input file (fastq), second argument is output file root (prefix of your choice),
 # third argument is length of labeling BC (usually 9 or 12)
+
 
 # Code by Chris Fiore, former graduate student in Cohen Lab. Shared with permission.
 # Contact hemangi@wustl.edu for any clarification.
